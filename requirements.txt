@@ -2,4 +2,4 @@ pandas
 numpy
 seaborn
 
--e .
+-e . #this will directly call the setup.py file
